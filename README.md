@@ -1,8 +1,8 @@
-# devShort
+# URLShortener
 
 [![GitHub - Release](https://img.shields.io/github/release/flokX/devShort.svg)](https://github.com/flokX/devShort/releases) [![GitHub - License](https://img.shields.io/github/license/flokX/devShort.svg)](https://github.com/flokX/devShort/blob/master/LICENSE) ![Privacy frienly](https://img.shields.io/badge/privacy-friendly-brightgreen.svg)
 
-The devShort URL shortener is the perfect choice for web developers, admins and professionals. It is simple and privacy friendly but very powerful since it focuses on the most important things.
+The URL shortener is the perfect choice for web developers, admins and professionals. It is simple and privacy friendly but very powerful since it focuses on the most important things.
 
 What is a URL shortener? Visit our [wiki article](https://github.com/flokX/devShort/wiki/What-is-URL-shortening%3F) for more information.
 
