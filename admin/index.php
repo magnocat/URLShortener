@@ -57,7 +57,7 @@ if ($config_content["settings"]["custom_links"]) {
     <meta name="robots" content="noindex, nofollow">
     <meta name="author" content="<?php echo $config_content["settings"]["author"]; ?> and the devShort team">
     <link rel="icon" href="../<?php echo $config_content["settings"]["favicon"]; ?>">
-    <title>Admin panel | <?php echo $config_content["settings"]["name"]; ?></title>
+    <title>Painel | <?php echo $config_content["settings"]["name"]; ?></title>
     <link href="../assets/vendor/bootstrap/bootstrap.min.css" rel="stylesheet">
     <link href="../assets/main.css" rel="stylesheet">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -74,12 +74,12 @@ if ($config_content["settings"]["custom_links"]) {
     <main role="main" class="flex-shrink-0">
         <div class="container">
             <h1 class="mt-5 text-center"><?php echo $config_content["settings"]["name"]; ?></h1>
-            <h4 class="mb-4 text-center">admin panel</h4>
+            <h4 class="mb-4 text-center">Painel Administrativo</h4>
             <div class="card mb-3">
                 <div class="card-body">
-                    <h5 class="card-title">Add shortlink <small><a id="refresh" href="#refresh" class="card-link">Refresh charts</a></small></h5>
+                    <h5 class="card-title">Link <small><a id="refresh" href="#refresh" class="card-link">Atualizar</a></small></h5>
                     <form class="form-inline" id="add-form">
-                        <label class="sr-only" for="name">Name</label>
+                        <label class="sr-only" for="name">Nome</label>
                         <input type="text" class="form-control mb-2 mr-sm-2" id="name" placeholder="Link1" required>
                         <label class="sr-only" for="url">URL (destination)</label>
                         <input type="url" class="form-control mb-2 mr-sm-2" id="url" placeholder="https://example.com" value="https://" required>
