@@ -4,8 +4,8 @@
         "password": "marianos"
     },
     "settings": {
-        "name": "devShort shortlink service",
-        "author": "The admin",
+        "name": "URLShortener - Encurtador de URL grátis",
+        "author": "MagnoCat Tecnologia",
         "home_link": "https://url.magno.cat",
         "favicon": "assets/icon.png",
         "custom_links": {
