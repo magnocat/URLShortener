@@ -34,6 +34,13 @@ if ($config_content["settings"]["custom_links"]) {
     <title><?php echo $config_content["settings"]["name"]; ?></title>
     <link href="assets/vendor/bootstrap/bootstrap.min.css" rel="stylesheet">
     <link href="assets/main.css" rel="stylesheet">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7769385014567112",
+          enable_page_level_ads: true
+     });
+</script>
 </head>
 
 <body class="d-flex flex-column h-100">
