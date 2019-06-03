@@ -6,11 +6,11 @@
     "settings": {
         "name": "devShort shortlink service",
         "author": "The admin",
-        "home_link": "https://github.com/flokX/devShort",
+        "home_link": "https://url.magno.cat",
         "favicon": "assets/icon.png",
         "custom_links": {
             "devShort wiki": "https://github.com/flokX/devShort/wiki",
-            "devShort author": "https://github.com/flokX"
+            "devShort author": "https://magno.cat"
         }
     },
     "shortlinks": {
