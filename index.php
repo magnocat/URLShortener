@@ -49,18 +49,18 @@ if ($config_content["settings"]["custom_links"]) {
         <div class="container">
             <nav class="mt-3" aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="<?php echo $config_content["settings"]["home_link"]; ?>">Home</a></li>
+                    <li class="breadcrumb-item"><a href="<?php echo $config_content["settings"]["home_link"]; ?>">Início</a></li>
                     <li class="breadcrumb-item" aria-current="page"><?php echo $config_content["settings"]["name"]; ?></li>
                 </ol>
             </nav>
             <h1 class="mt-5"><?php echo $config_content["settings"]["name"]; ?></h1>
-            <p class="lead">This is a shortlink service. You need a valid shortlink to get redirected.</p>
+            <p class="lead">Este é um serviço de encurtamento de URL. Você precisa de um link válido.</p>
             <ul class="list-inline">
-                <li class="list-inline-item"><a href="https://github.com/flokX/devShort/wiki/What-is-URL-shortening%3F">What is URL shortening?</a></li>
+                <li class="list-inline-item"><a href="https://github.com/flokX/devShort/wiki/What-is-URL-shortening%3F">O que é um encurtador de URL?</a></li>
                 <li class="list-inline-item">-</li>
-                <li class="list-inline-item"><a href="<?php echo $config_content["settings"]["home_link"]; ?>">Home page</a></li>
+                <li class="list-inline-item"><a href="<?php echo $config_content["settings"]["home_link"]; ?>">Início</a></li>
                 <li class="list-inline-item">-</li>
-                <li class="list-inline-item"><a href="admin">Admin panel</a></li>
+                <li class="list-inline-item"><a href="admin">Painel</a></li>
             </ul>
         </div>
     </main>
