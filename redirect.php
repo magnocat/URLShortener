@@ -75,8 +75,8 @@ if (array_key_exists($short, $config_content["shortlinks"])) {
                     <li class="breadcrumb-item active" aria-current="page">404</li>
                 </ol>
             </nav>
-            <h1 class="mt-5">404 | Shortlink Not Found.</h1>
-            <p class="lead">The requested shortlink <i><?php echo $short; ?></i> was not found on this server. It was either deleted, expired, misspelled or eaten by a monster.</p>
+            <h1 class="mt-5">404 | Não encontrado.</h1>
+            <p class="lead">O link encurtado <i><?php echo $short; ?></i> não foi encontrado neste servidor. Ele pode ter sido deletado, expirado, digitado errado ou foi comido por um monstro.</p>
         </div>
     </main>
 
